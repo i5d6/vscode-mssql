@@ -598,7 +598,7 @@
     "vscode-jsonrpc": "^8.2.1",
     "vscode-languageclient": "5.2.1",
     "which": "^2.0.2",
-    "xml-formatter": "2.1.0"
+    "xml-formatter": "2.6.1"
   },
   "devDependencies": {
     "@microsoft/azdata-test": "^3.0.4",
