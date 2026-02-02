@@ -586,7 +586,7 @@
   },
   "dependencies": {
     "@microsoft/ads-extension-telemetry": "^3.0.1",
-    "@xmldom/xmldom": "0.8.4",
+    "@xmldom/xmldom": "0.8.11",
     "ajv": "^6.12.6",
     "axios": "^1.12.0",
     "extract-zip": "^2.0.1",
